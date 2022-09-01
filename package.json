@@ -1,0 +1,15 @@
+{
+  "name": "guesscodegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guessCodeGame.js",
+  "scripts": {
+    "start": "node guessCodeGame.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
